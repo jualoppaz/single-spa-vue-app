@@ -1,6 +1,6 @@
 <template>
   <div id="vue-app">
-      <div id="vue-component">
+      <div id="vue-component" class="container">
           <div class="main">
             <h1><img src="https://vuejs.org/images/logo.png" width="50" height="50"> Vue App</h1>
             <hr>
@@ -28,7 +28,6 @@ export default {
 <style lang="scss" scoped>
 #vue-component {
   display: block;
-  padding: 77px 0 77px 150px;
 
   .main{
     padding: 0 15px;
