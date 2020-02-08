@@ -30,8 +30,6 @@ export default {
   display: block;
 
   .main{
-    padding: 0 15px;
-
     #links{
       margin: 30px 0 30px;
       a{
