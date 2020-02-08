@@ -3,7 +3,7 @@
     <h2>List page</h2>
     <p>
         This is the initial page. You'll see this page when navigate
-        to Vue section from sidebar.
+        to Vue section from navbar.
     </p>
   </div>
 </template>
