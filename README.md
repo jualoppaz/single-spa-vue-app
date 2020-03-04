@@ -66,7 +66,7 @@ The **vueLifecycles** object contains all **single-spa-vue** methods for the **s
 ```json
 {
   "name": "single-spa-vue-app",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Vue application with two example pages for be included in a single-spa application as registered app.",
   "main": "dist/single-spa-vue-app.umd.js",
   "scripts": {
